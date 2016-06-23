@@ -1,0 +1,22 @@
+{
+  "name": "topogram-plugin-chi2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Chi2.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topogram/topogram-plugin-chi2.git"
+  },
+  "author": "Clément Renaud <hi@clementrenaud.com> (http://clementrenaud.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topogram/topogram-plugin-chi2/issues"
+  },
+  "homepage": "https://github.com/topogram/topogram-plugin-chi2#readme"
+}
